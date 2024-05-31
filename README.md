@@ -35,11 +35,13 @@ Apasionado de la tecnología y disfrutando de una transición laboral al Data An
     <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+  
   </a>
 ---
 
 ### :hammer_and_wrench: Mis Estadisticas :
 </div>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manuelbsts15&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelbsts15&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   <!--

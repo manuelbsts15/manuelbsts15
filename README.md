@@ -24,7 +24,7 @@ Apasionado de la tecnología y disfrutando de una transición laboral al Data An
 
 * :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-bustos-ingelect-datanalist/)
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Manuel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-bustos-ingelect-datanalist/)
 
 ---
 

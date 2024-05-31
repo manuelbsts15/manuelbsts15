@@ -10,6 +10,7 @@
   Hola soy Manuel ¡Encantado de conocerte!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+  
 ---
  <div id="header" align="left">
    
@@ -37,6 +38,7 @@ Apasionado de la tecnología y disfrutando de una transición laboral al Data An
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   
   </a>
+  
 ---
 
 ### :hammer_and_wrench: Mis Estadisticas :

@@ -28,9 +28,9 @@ Apasionado de la tecnología y disfrutando de una transición laboral al Data An
 
 * :mailbox: Si quieres asber mas de mi, ingresa a mi perfil en --> [![Linkedin Badge](https://img.shields.io/badge/-Manuel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-bustos-ingelect-datanalist/)
 
-* "📧" <a href="mailto:manuelbsts15@gmail.com">manuelbsts15@gmail.com</a>
+* 📧 <a href="mailto:manuelbsts15@gmail.com">manuelbsts15@gmail.com</a>
 
-* <p dir="auto">📱 +569 56651977 </p>
+* 📱 +569 56651977 </p>
 
 ---
 

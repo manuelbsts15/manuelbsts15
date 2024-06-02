@@ -20,13 +20,17 @@
 
 Apasionado de la tecnología y disfrutando de una transición laboral al Data Analytics <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-* :telescope: Actualmente estoy trabajando como ejecutivo de ventas del rubro automotriz pero necesito nuevos retos :muscle:
+* :telescope: Actualmente estoy trabajando como ejecutivo de ventas del rubro automotriz pero necesito nuevos retos, es por esto que me sumergi en el area de Analisis de datos :muscle:
 
 * :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
 
-* :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo
+* :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo, asi como tambien ponerme al dia con el avance de la tegnologia.
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Manuel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-bustos-ingelect-datanalist/)
+* :mailbox: Si quieres asber mas de mi, ingresa a mi perfil en --> [![Linkedin Badge](https://img.shields.io/badge/-Manuel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-bustos-ingelect-datanalist/)
+
+* "📧" <a href="mailto:manuelbsts15@gmail.com">manuelbsts15@gmail.com</a>
+
+* <p dir="auto">📱 +569 56651977 </p>
 
 ---
 

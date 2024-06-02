@@ -20,11 +20,11 @@
 
 Apasionado de la tecnología y disfrutando de una transición laboral al Data Analytics <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-* :telescope: Actualmente estoy trabajando como ejecutivo de ventas del rubro automotriz pero necesito nuevos retos, es por esto que me sumergi en el area de Analisis de datos :muscle:
+* :telescope: Actualmente estoy trabajando como ejecutivo de ventas del rubro automotriz pero necesito un cambio, es por esto que me sumergi en el area de Analisis de datos. :muscle:
 
-* :seedling: Estoy estudiando :blue_book: y practicando :computer: analisis y manejo de base de datos a traves de lenguajes de programacion como SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft, principalmente excel. Tambien he podido aprender como mostrar resultados a traves de Dashboard con Tableau.
+* :seedling: Estoy estudiando :blue_book: y practicando :computer: analisis y manejo de base de datos a traves de lenguajes de programacion como SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft, principalmente excel. Tambien he podido aprender como mostrar resultados a traves de Dashboard con Tableau. Todo esto gracias al Bootcamp de Analisis de Datos en la Academia Tripleten.
 
-* :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo, asi como tambien ponerme al dia con el avance de la tegnologia.
+* :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo, asi como tambien ponerme al dia con el avance de la tegnologia, me gustaria enfrentar nuevos retos, me gusta aprender cada dia mas y asi poder trabajar de forma remota en cualquier lugar del mundo.
 
 * :mailbox: Si quieres asber mas de mi, ingresa a mi perfil en --> [![Linkedin Badge](https://img.shields.io/badge/-Manuel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-bustos-ingelect-datanalist/)
 

@@ -22,7 +22,7 @@ Apasionado de la tecnología y disfrutando de una transición laboral al Data An
 
 * :telescope: Actualmente estoy trabajando como ejecutivo de ventas del rubro automotriz pero necesito nuevos retos, es por esto que me sumergi en el area de Analisis de datos :muscle:
 
-* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
+* :seedling: Estoy estudiando :blue_book: y practicando :computer: analisis y manejo de base de datos a traves de lenguajes de programacion como SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft, principalmente excel. Tambien he podido aprender como mostrar resultados a traves de Dashboard con Tableau.
 
 * :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo, asi como tambien ponerme al dia con el avance de la tegnologia.
 

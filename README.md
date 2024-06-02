@@ -1,8 +1,9 @@
-
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/manuelbsts15/manuelbsts15/blob/032ac424181aba44868a7d8cad300ec60aff4d9b/banner.png" width="800"/>
   </div>
+
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-bustos-ingelect-datanalist/)
+
   <div id="badges" align="center">
 
   <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=manuelbsts15&color=00cf00" alt=""/>
